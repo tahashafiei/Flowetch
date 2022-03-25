@@ -1,10 +1,6 @@
-![image](assets/header.png)
+### Fork made for more Bongo. Support the creator --> https://github.com/migueravila/Flowetch
 
-<p style="margin: -20px 0 30px">
-  <a href="https://www.buymeacoffee.com/migueravila" target="_blank" style='margin-right:0px; margin-top:5px'>
-    <img align="center" src="https://github.com/migueravila/Flowetch/blob/master/assets/donation.png" alt="donation" height="35px" />
-  </a>
-</p>
+![image](assets/header.png)
 
 ## 👇 Index
 - [👇 Index](#-index)
@@ -14,7 +10,7 @@
 
 ## ⚙️ Installation
 
-1. Clone this repo with `git clone https://github.com/migueravila/Flowetch.git`
+1. Clone this repo with `git clone https://github.com/tahashafiei/Flowetch.git`
 2. Run `cd Flowetch`
 3. Run `sudo make install`
 4. Now you can run it with `flowetch` 
@@ -26,10 +22,11 @@ This fetch Is thought to be used as a personal fetch and have your own fork of i
 ### 🖼️ Art
 
 ```shell
-ARTR1="${c1}     _ _    "
-ARTR2="${c1}    (_\_)   "
-ARTR3="${c1}   (__<__)  "
-ARTR4="${c1}    (_/_)   "
-ARTR5="${c2}    \ |     "
-ARTR6="${c2}     \|/    "
+ARTR1="${c5}             ⢠⣿⣶⣄⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  "
+ARTR2="${c5}⠀⠀⠀⠀⠀⠀⠀  ⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣄⣀⡀⣠⣾⡇⠀⠀⠀⠀  "
+ARTR3="${c5}         ⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀  "
+ARTR4="${c5}       ⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⢿⣿⣿⡇⠀⠀⠀⠀  "
+ARTR5="${c5}   ⣶⣿⣦⣜⣿⣿⣿⡟⠻⣿⣿⣿⣿⣿⣿⣿⡿⢿⡏⣴⣺⣦⣙⣿⣷⣄⠀⠀⠀  "
+ARTR6="${c5}  ⠀⣯⡇⣻⣿⣿⣿⣿⣷⣾⣿⣬⣥⣭⣽⣿⣿⣧⣼⡇⣯⣇⣹⣿⣿⣿⣿⣧    "
+ARTR7="${c5}   ⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠸⣿⣿⣿⣿⣿⣿⣿⣷⠀  "
 ```
